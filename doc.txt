@@ -1,0 +1,42 @@
+CloudTech Brasil S.A.
+
+Perfil da Empresa:
+A CloudTech Brasil S.A. é uma empresa líder no setor de computação em nuvem, fundada em 2010. Com sede em São Paulo e um escritório regional no Rio de Janeiro, a empresa tem se destacado no mercado brasileiro e latino-americano de soluções em nuvem.
+
+Dados Gerais:
+- Fundação: 2010
+- Funcionários: 522 (ativos)
+- Sedes: São Paulo (matriz) e Rio de Janeiro (escritório regional)
+- Faturamento anual: R$ 280 milhões (2022)
+
+Serviços Oferecidos:
+1. Infraestrutura como Serviço (IaaS)
+2. Plataforma como Serviço (PaaS)
+3. Software como Serviço (SaaS)
+4. Soluções de Armazenamento em Nuvem
+5. Serviços de Segurança Cibernética
+6. Consultoria em Transformação Digital
+
+Estrutura Organizacional:
+- Diretoria Executiva: 5 membros
+- Departamento de Tecnologia: 250 funcionários
+- Departamento de Vendas e Marketing: 120 funcionários
+- Suporte ao Cliente: 80 funcionários
+- Recursos Humanos: 25 funcionários
+- Finanças e Administração: 42 funcionários
+
+Principais Clientes:
+A CloudTech Brasil atende a uma ampla gama de clientes, desde startups até grandes corporações, incluindo:
+- 3 dos 5 maiores bancos do Brasil
+- 2 das maiores redes de varejo do país
+- Diversas empresas do setor de saúde e educação
+- Múltiplas agências governamentais
+
+Responsabilidade Social e Sustentabilidade:
+A empresa está comprometida com práticas sustentáveis e responsabilidade social. Iniciativas incluem:
+- Programa de neutralização de carbono
+- Projeto de inclusão digital em comunidades carentes
+- Política de diversidade e inclusão no ambiente de trabalho
+
+Reconhecimentos:
+- "Melhor Empresa de Cloud Computing" pela Revista TechBrasil em 2021
